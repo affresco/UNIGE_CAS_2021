@@ -2,18 +2,21 @@
   "READ_WRITE": {
     "URL": "wss://test.deribit.com/ws/api/v2",
     "KEY": "S4m-9X8h",
-    "SECRET": "Z4-PPos9XYDUe2AojUVCDndaUKSHJ6SKKM3zvCDG3QQ"
+    "SECRET": "Z4-PPos9XYDUe2AojUVCDndaUKSHJ6SKKM3zvCDG3QQ",
+    "COMMENT": "Test account: paper trading only"
   },
 
   "READ_ONLY_1": {
     "URL": "wss://test.deribit.com/ws/api/v2",
     "KEY": "iPuydbyp",
-    "SECRET": "L7PUBIE78Ehv7aGnQ8IpOBydc6CKds7BpjKDGh7SdU8"
+    "SECRET": "L7PUBIE78Ehv7aGnQ8IpOBydc6CKds7BpjKDGh7SdU8",
+    "COMMENT": "Test account: paper trading only"
   },
 
   "READ_ONLY_2": {
     "URL": "wss://test.deribit.com/ws/api/v2",
     "KEY": "rbjhEOa2",
-    "SECRET": "k_ZyZARqswXHoG4sB6BqXIt6DPnOTxised_NT55Q-AM"
+    "SECRET": "k_ZyZARqswXHoG4sB6BqXIt6DPnOTxised_NT55Q-AM",
+    "COMMENT": "Test account: paper trading only."
   }
 }
