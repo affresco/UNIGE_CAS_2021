@@ -1,0 +1,1 @@
+default_app_config = 'trade_listener_app.apps.TradeListenerConfig'

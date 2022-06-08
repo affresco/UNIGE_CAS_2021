@@ -1,0 +1,1 @@
+def write_hashes_to_blockchain(w3, user_id, trades)
